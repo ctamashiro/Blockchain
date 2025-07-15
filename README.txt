@@ -1,30 +1,8 @@
-Full Name: Cole Tamashiro 
-Student ID: 2444822
-Chapman email: ctamashiro@chapman.edu
-Course number and section: CPSC350-02
-Assignment: PA-4: Blockchain Ledger
+Goal: 
+Used C++ to design a basic blockchain ledger system to simulate fundamental concepts such as block linking, hash validation, and data integrity. 
+Implemented by using a custom doubly linked list to store the user's input data, and utilized the ASCII system to convert the user’s content into
+an integer hash value.
 
-Source Files Submitted: 
-
-
-PA4: Blockchain Ledger
-
-Description of any known errors: None that I know of
-
-List of references: 
-https://www.w3schools.com/cpp/cpp_date.asp 
--Used to find the exact time and date 
-
-https://docs.google.com/document/d/1CYbMtbwje9bkGzhi39Y5IVvNwvFIMHXkD2gUBsgrQnA/edit?tab=t.0
-- Used to calculate the Hashes (Given in the problem set Doc)
-
-CHATGPT 
-- Convert string values to integers
-
-https://learn.microsoft.com/en-us/cpp/cpp/static-cast-operator?view=msvc-170
-- Used for ACII values and how they work 
-
-Also used the code from Doubly Linked List provided by the class notion page
 
 
 
